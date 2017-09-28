@@ -1,0 +1,16 @@
+{
+  "name": "crawl_nodedjs",
+  "version": "1.0.0",
+  "description": "Crawling in nodejs",
+  "main": "crawler.js",
+  "scripts": {
+    "start": "node crawler.js"
+  },
+  "author": "rahul",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^0.19.0",
+    "url-parse": "^1.0.5",
+    "request": "^2.65.0"
+  }
+}
